@@ -46,7 +46,7 @@ Before running the script, ensure you have the following Python libraries instal
 - scikit-multiflow
 
 ## Citation Request
-If you re-use this work, please cite:
+f you find this work useful in your research, please consider citing:
 ```bash
 @article{badar2023fac,
   title={FAC-fed: Federated adaptation for fairness and concept drift aware stream classification},
