@@ -45,5 +45,18 @@ Before running the script, ensure you have the following Python libraries instal
 - pytorch
 - scikit-multiflow
 
-
+## Citation Request
+If you re-use this work, please cite:
+```bash
+@article{badar2023fac,
+  title={FAC-fed: Federated adaptation for fairness and concept drift aware stream classification},
+  author={Badar, Maryam and Nejdl, Wolfgang and Fisichella, Marco},
+  journal={Machine Learning},
+  volume={112},
+  number={8},
+  pages={2761--2786},
+  year={2023},
+  publisher={Springer}
+}
+```
 
