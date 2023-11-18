@@ -6,3 +6,20 @@ Federated Learning (FL) is an emerging collaborative learning paradigm of Machin
 * [Default](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 * [Law School](https://github.com/iosifidisvasileios/FABBOO/blob/master/Data/law_dataset.arff)
 ## Code
+### Dataset Processing Scripts
+
+The `datasets` directory contains all the datasets used in this project. Below is a description of python scripts written to process each dataset:
+
+- `load_adult.py`: Utility script for loading and preprocessing the 'Adult' dataset commonly used in machine learning tasks related to income prediction.
+  
+- `load_bank.py`: This script is designed to load and preprocess the 'Bank' dataset, which includes data for marketing campaigns of banking institutions.
+
+- `load_default.py`: A script that handles the loading and initial processing of the 'Default' dataset, which might be related to credit card defaulting data (Replace with the actual functionality).
+
+- `load_law.py`: Loads the 'Law' dataset and prepares it for analysis, possibly containing information about legal precedents or case outcomes (Replace with the actual functionality).
+
+
+- `facfed_main.py`: Main script for the 'FacFed' framework that orchestrates the federated learning process on different datasets (Replace with the actual functionality).
+- `cfsote.py`: The script contains functions related to the 'CFSOTE' algorithm for data preprocessing or evaluation (Replace with the actual functionality).
+- `onn.py`: Contains the implementation of an Optimal Neural Network (ONN) for running experiments on the loaded datasets (Replace with the actual functionality).
+Please refer to each script's individual documentation for more detailed information on usage and parameters.
