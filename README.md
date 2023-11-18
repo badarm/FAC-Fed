@@ -24,7 +24,7 @@ The following scripts constitute the complete methodology of FAC-Fed
   
 - `onn.py`: Contains the implementation of an Online Neural Network (ONN) used as a bse model in FAC-Fed.
 
-## Running the facfed.py Script
+## Running the facfed_main.py Script
 
 To run the `facfed_main.py` script with the default settings, you can use the following command:
 
