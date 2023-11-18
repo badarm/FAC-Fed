@@ -28,18 +28,22 @@ The following scripts constitute the complete methodology of FAC-Fed
 
 To run the `facfed_main.py` script with the default settings, you can use the following command:
 
-```bash
+\```bash
 python facfed_main.py --num_clients 3 --fairness_notion 'eqop' --dataset_name 'bank' --distribution 'attr'
+\```
 
+## Prerequisites
 
-## Prerequisities
-* numpy
-* pandas
-* sklearn
-* scipy
-* matplotlib
-* tensorflow
-* pytorch
-* scikit-multiflow
+Before running the script, ensure you have the following Python libraries installed:
+
+- numpy
+- pandas
+- sklearn
+- scipy
+- matplotlib
+- tensorflow
+- pytorch
+- scikit-multiflow
+
 
 
