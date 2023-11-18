@@ -17,9 +17,10 @@ The `datasets` directory contains all the datasets used in this project. Below i
 - `load_default.py`: A script that handles the loading and initial processing of the 'Default' dataset, which might be related to credit card defaulting data (Replace with the actual functionality).
 
 - `load_law.py`: Loads the 'Law' dataset and prepares it for analysis, possibly containing information about legal precedents or case outcomes (Replace with the actual functionality).
+### FAC-Fed main scripts
+The following scripts constitute the complete methodology of FAC-Fed
+- `facfed_main.py`: Main script for the 'FacFed' framework that orchestrates the fairness aware federated learning process on different datasets.
+- `cfsote.py`: The script contains functions related to the 'CFSOTE' algorithm for adaptive data augmnetation for discrimination mitigation.
+  
+- `onn.py`: Contains the implementation of an Online Neural Network (ONN) used as a bse model in FAC-Fed.
 
-
-- `facfed_main.py`: Main script for the 'FacFed' framework that orchestrates the federated learning process on different datasets (Replace with the actual functionality).
-- `cfsote.py`: The script contains functions related to the 'CFSOTE' algorithm for data preprocessing or evaluation (Replace with the actual functionality).
-- `onn.py`: Contains the implementation of an Optimal Neural Network (ONN) for running experiments on the loaded datasets (Replace with the actual functionality).
-Please refer to each script's individual documentation for more detailed information on usage and parameters.
