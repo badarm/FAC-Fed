@@ -28,8 +28,9 @@ The following scripts constitute the complete methodology of FAC-Fed
 
 To run the `facfed_main.py` script with the default settings, you can use the following command:
 
-
+```bash
 python facfed_main.py --num_clients 3 --fairness_notion 'eqop' --dataset_name 'bank' --distribution 'attr'
+
 
 ## Prerequisities
 * numpy
