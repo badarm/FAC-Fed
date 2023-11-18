@@ -5,3 +5,4 @@ Federated Learning (FL) is an emerging collaborative learning paradigm of Machin
 * [Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)
 * [Default](https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients)
 * [Law School](https://github.com/iosifidisvasileios/FABBOO/blob/master/Data/law_dataset.arff)
+## Code
